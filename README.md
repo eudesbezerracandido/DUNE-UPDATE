@@ -10,7 +10,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DUNA PARTE 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] DUNA PARTE 2 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B98EEDABB780D1FF58C8A8D5AFB6C234B10757E</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
