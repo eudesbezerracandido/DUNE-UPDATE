@@ -11,7 +11,8 @@
 
 <item>
 <title>[COLOR silver][B] DUNA PARTE 2 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B98EEDABB780D1FF58C8A8D5AFB6C234B10757E</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B98EEDABB780D1FF58C8A8D5AFB6C234B10757E$nome=DUNA PARTE 2 HDCAM</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:160948A322A5FC2BCE5B5A5C004C5E7F8DA099F4$nome=DUNA PARTE 2 LEGENDA FIXA</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Paul Atreides se une a Chani e aos Fremen enquanto busca vingança contra os conspiradores que destruíram sua família. Enfrentando uma escolha entre o amor de sua vida e o destino do universo, ele deve evitar um futuro terrível que só ele pode prever.</info>
